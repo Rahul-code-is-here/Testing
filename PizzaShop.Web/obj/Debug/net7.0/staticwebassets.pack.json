@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PizzaShop.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\EmailTemplate\\NewUserEmail.html",
+      "PackagePath": "staticwebassets\\EmailTemplate\\NewUserEmail.html"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\EmailTemplate\\ResetPasswordBody.html",
+      "PackagePath": "staticwebassets\\EmailTemplate\\ResetPasswordBody.html"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094247_cristiano .png",
+      "PackagePath": "staticwebassets\\Uploads\\ProfileImages\\20250313_094247_cristiano .png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094302_cristiano .png",
+      "PackagePath": "staticwebassets\\Uploads\\ProfileImages\\20250313_094302_cristiano .png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094350_cristiano .png",
+      "PackagePath": "staticwebassets\\Uploads\\ProfileImages\\20250313_094350_cristiano .png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_123546_alienx.png",
+      "PackagePath": "staticwebassets\\Uploads\\ProfileImages\\20250313_123546_alienx.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_125021_bentan.png",
+      "PackagePath": "staticwebassets\\Uploads\\ProfileImages\\20250313_125021_bentan.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_130246_falguni.png",
+      "PackagePath": "staticwebassets\\Uploads\\ProfileImages\\20250313_130246_falguni.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\3dot.webp",
+      "PackagePath": "staticwebassets\\images\\3dot.webp"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\6_dotss.webp",
+      "PackagePath": "staticwebassets\\images\\6_dotss.webp"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\6dot.jfif",
+      "PackagePath": "staticwebassets\\images\\6dot.jfif"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Default_pfp.svg.png",
+      "PackagePath": "staticwebassets\\images\\Default_pfp.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\07b87324-ac9e-41f2-9035-8054b36445a4.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\07b87324-ac9e-41f2-9035-8054b36445a4.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\126e173a-41b0-4d1d-ae04-387839971d80.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\126e173a-41b0-4d1d-ae04-387839971d80.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\1d9a6a3a-1585-4bc1-83f3-6f5791035856.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\1d9a6a3a-1585-4bc1-83f3-6f5791035856.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\22f94749-2a29-4dd3-bf6a-4d52d3dd3b0b.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\22f94749-2a29-4dd3-bf6a-4d52d3dd3b0b.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\2495bcd9-3a5e-408d-9596-ec0936671fd3.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\2495bcd9-3a5e-408d-9596-ec0936671fd3.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\24ab6fe2-fa79-495d-b4b9-599d1c0fe2ae.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\24ab6fe2-fa79-495d-b4b9-599d1c0fe2ae.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\2f5383b2-3db6-4091-b499-88aa52a1d167.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\2f5383b2-3db6-4091-b499-88aa52a1d167.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\496e6bcc-a205-4c6d-ac12-f9e88600efb2.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\496e6bcc-a205-4c6d-ac12-f9e88600efb2.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\5a9f1aec-4775-4ce0-8ec7-b9699807ad9f.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\5a9f1aec-4775-4ce0-8ec7-b9699807ad9f.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\611e9863-15f2-4188-b873-3b78eecfbd29.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\611e9863-15f2-4188-b873-3b78eecfbd29.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\6904aa22-53ce-4fb8-a79e-99407eb4a012.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\6904aa22-53ce-4fb8-a79e-99407eb4a012.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\73d2e365-f259-4213-ba13-94614cc92079.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\73d2e365-f259-4213-ba13-94614cc92079.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\8835e869-4af0-4ff7-8d92-e1dc4df63268.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\8835e869-4af0-4ff7-8d92-e1dc4df63268.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\9ce4b589-845f-4a1b-958b-93d317089512.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\9ce4b589-845f-4a1b-958b-93d317089512.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\b327bee6-6323-45a4-8cf3-300870092964.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\b327bee6-6323-45a4-8cf3-300870092964.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\b3533f66-cf46-44ec-b1e4-e3461d5f4705.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\b3533f66-cf46-44ec-b1e4-e3461d5f4705.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\c63af485-ec4d-48b6-ad4e-d208a79f826b.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\c63af485-ec4d-48b6-ad4e-d208a79f826b.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\c6a7f865-1d96-4c73-86dd-4496be3cefa0.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\c6a7f865-1d96-4c73-86dd-4496be3cefa0.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\cf8f2e96-62d4-448f-9665-0da5db55307e.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\cf8f2e96-62d4-448f-9665-0da5db55307e.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d59b9a64-9777-490e-9a23-9581e1f7dde4.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\d59b9a64-9777-490e-9a23-9581e1f7dde4.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d73f6cb8-d5c0-4474-9392-1bdc129c165a.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\d73f6cb8-d5c0-4474-9392-1bdc129c165a.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d8012899-fa4b-4a28-b923-714cd78d2d96.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\d8012899-fa4b-4a28-b923-714cd78d2d96.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\e7b03b8a-e306-4141-aa30-dac43d836e2e.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\e7b03b8a-e306-4141-aa30-dac43d836e2e.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\e9afa2cd-b0d9-4aba-a418-a7a0ddcc76f6.png",
+      "PackagePath": "staticwebassets\\images\\ItemImage\\e9afa2cd-b0d9-4aba-a418-a7a0ddcc76f6.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Non veg.jpg",
+      "PackagePath": "staticwebassets\\images\\Non veg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\QR.png",
+      "PackagePath": "staticwebassets\\images\\QR.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Veg.jfif",
+      "PackagePath": "staticwebassets\\images\\Veg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\account.png",
+      "PackagePath": "staticwebassets\\images\\account.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\add-list.png",
+      "PackagePath": "staticwebassets\\images\\add-list.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\client_5895695.png",
+      "PackagePath": "staticwebassets\\images\\client_5895695.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\cutlery.png",
+      "PackagePath": "staticwebassets\\images\\cutlery.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\dominos_background.jpg",
+      "PackagePath": "staticwebassets\\images\\dominos_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\download-from-cloud_icon-icons.com_54289.png",
+      "PackagePath": "staticwebassets\\images\\download-from-cloud_icon-icons.com_54289.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-delete-80.png",
+      "PackagePath": "staticwebassets\\images\\icons8-delete-80.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-donald-trump-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-donald-trump-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-down-arrow-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-down-arrow-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-order-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-order-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-pencil-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-pencil-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-plus-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-plus-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-rectangle-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-rectangle-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-up-arrow-50.png",
+      "PackagePath": "staticwebassets\\images\\icons8-up-arrow-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\arrow-clockwise.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\arrow-clockwise.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\border-all.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\border-all.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\box-arrow-right.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\box-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\camera.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\camera.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\cash-coin.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\cash-coin.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\clipboard-check.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\clipboard-check.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\clipboard.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\cloud-arrow-up.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\cloud-arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\customer.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\customer.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\dinner-table.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\dinner-table.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\dots-six-vertical-thin-svgrepo-com.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\dots-six-vertical-thin-svgrepo-com.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\list.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\list.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\non-veg-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\non-veg-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\order-value.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\order-value.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\pen.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\pen.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\people.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\people.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\person-gear.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\person-gear.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\person-rolodex.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\person-rolodex.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\plus-square.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\plus-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\search.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\search.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\square.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\square.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\total-orders.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\total-orders.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\total-sales.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\total-sales.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\trash.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\trash.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\veg-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\veg-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\vegan-icon.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\vegan-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\waiting-list.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\waiting-list.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\waiting-time.svg",
+      "PackagePath": "staticwebassets\\images\\icons\\waiting-time.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\key.png",
+      "PackagePath": "staticwebassets\\images\\key.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-facebook-48.png",
+      "PackagePath": "staticwebassets\\images\\logos\\icons8-facebook-48.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-github-48.png",
+      "PackagePath": "staticwebassets\\images\\logos\\icons8-github-48.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-google-48.png",
+      "PackagePath": "staticwebassets\\images\\logos\\icons8-google-48.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\pizzashop_logo.png",
+      "PackagePath": "staticwebassets\\images\\logos\\pizzashop_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\profile_div_bg.jpg",
+      "PackagePath": "staticwebassets\\images\\profile_div_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\qr-code.png",
+      "PackagePath": "staticwebassets\\images\\qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\search-icon.svg",
+      "PackagePath": "staticwebassets\\images\\search-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\tax.png",
+      "PackagePath": "staticwebassets\\images\\tax.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\toppng.com-warning-icon-2400x2400.png",
+      "PackagePath": "staticwebassets\\images\\toppng.com-warning-icon-2400x2400.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\transperent-pizza.png",
+      "PackagePath": "staticwebassets\\images\\transperent-pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\triangle_11004056.png",
+      "PackagePath": "staticwebassets\\images\\triangle_11004056.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\user.png",
+      "PackagePath": "staticwebassets\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\user1.png",
+      "PackagePath": "staticwebassets\\images\\user1.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\0ccef45b-6de5-416b-a1c3-3a12ff2c3180_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\0ccef45b-6de5-416b-a1c3-3a12ff2c3180_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\1053fb71-29ed-485e-9bed-9efbbbe908c4_qr-code.png",
+      "PackagePath": "staticwebassets\\images\\users\\1053fb71-29ed-485e-9bed-9efbbbe908c4_qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\134eaa64-6123-4ad2-a9f0-7b79db549842_download-from-cloud_icon-icons.com_54289.png",
+      "PackagePath": "staticwebassets\\images\\users\\134eaa64-6123-4ad2-a9f0-7b79db549842_download-from-cloud_icon-icons.com_54289.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\19f4b235-3b19-421c-a981-646ca4263af4_icons8-up-arrow-24.png",
+      "PackagePath": "staticwebassets\\images\\users\\19f4b235-3b19-421c-a981-646ca4263af4_icons8-up-arrow-24.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\1d232cdb-a3bd-422a-8214-0eacd4e0f75c_transperent-pizza.png",
+      "PackagePath": "staticwebassets\\images\\users\\1d232cdb-a3bd-422a-8214-0eacd4e0f75c_transperent-pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2179c7c8-7da2-4f97-a011-c29d334a9a94_toppng.com-warning-icon-2400x2400.png",
+      "PackagePath": "staticwebassets\\images\\users\\2179c7c8-7da2-4f97-a011-c29d334a9a94_toppng.com-warning-icon-2400x2400.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\21919a59-8b89-4a4a-94e0-e023537b19ab_QR.png",
+      "PackagePath": "staticwebassets\\images\\users\\21919a59-8b89-4a4a-94e0-e023537b19ab_QR.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2198efc4-36ce-47fd-b302-f644f1806c04_toppng.com-warning-icon-2400x2400.png",
+      "PackagePath": "staticwebassets\\images\\users\\2198efc4-36ce-47fd-b302-f644f1806c04_toppng.com-warning-icon-2400x2400.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\223a5087-a31c-4850-bc08-29eb266814d7_icons8-up-arrow-32.png",
+      "PackagePath": "staticwebassets\\images\\users\\223a5087-a31c-4850-bc08-29eb266814d7_icons8-up-arrow-32.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\22c2af21-72a8-4540-8002-0d0ca3dd2f7a_toppng.com-warning-icon-2400x2400.png",
+      "PackagePath": "staticwebassets\\images\\users\\22c2af21-72a8-4540-8002-0d0ca3dd2f7a_toppng.com-warning-icon-2400x2400.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2b5b5647-5081-41eb-82b9-b7908b78d297_Default_pfp.svg.png",
+      "PackagePath": "staticwebassets\\images\\users\\2b5b5647-5081-41eb-82b9-b7908b78d297_Default_pfp.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\376b6565-078f-4746-b5b8-5cb02dc1cc70_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\376b6565-078f-4746-b5b8-5cb02dc1cc70_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4a25d71b-9722-4146-9d7a-2e0b8b2d2406_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\4a25d71b-9722-4146-9d7a-2e0b8b2d2406_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4ca1664e-0254-4e3e-9d9e-2b1f12a1cb8b_icons8-up-arrow-50.png",
+      "PackagePath": "staticwebassets\\images\\users\\4ca1664e-0254-4e3e-9d9e-2b1f12a1cb8b_icons8-up-arrow-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4de3e57a-cc2f-41e4-8f02-42b97460a3b8_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\4de3e57a-cc2f-41e4-8f02-42b97460a3b8_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5207ab34-ebbc-4eb1-a98b-631d3535cdac_qr-code.png",
+      "PackagePath": "staticwebassets\\images\\users\\5207ab34-ebbc-4eb1-a98b-631d3535cdac_qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5c051ad7-4966-4094-9277-3e7fc1053795_qr-code.png",
+      "PackagePath": "staticwebassets\\images\\users\\5c051ad7-4966-4094-9277-3e7fc1053795_qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5d7d64a7-4e7e-42b5-8158-6313795be0ce_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\5d7d64a7-4e7e-42b5-8158-6313795be0ce_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\60691af3-053f-4a78-9d2a-c7f6bfd909d5_transperent-pizza.png",
+      "PackagePath": "staticwebassets\\images\\users\\60691af3-053f-4a78-9d2a-c7f6bfd909d5_transperent-pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\634ed73c-5c3b-4352-bfd3-07848f0cd60b_Veg.jfif",
+      "PackagePath": "staticwebassets\\images\\users\\634ed73c-5c3b-4352-bfd3-07848f0cd60b_Veg.jfif"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\63784b6e-bbe7-4ef7-b128-efea1dd1a7db_cutlery.png",
+      "PackagePath": "staticwebassets\\images\\users\\63784b6e-bbe7-4ef7-b128-efea1dd1a7db_cutlery.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\707ab212-4a4d-43b0-933e-8c5fe4e65873_add-list.png",
+      "PackagePath": "staticwebassets\\images\\users\\707ab212-4a4d-43b0-933e-8c5fe4e65873_add-list.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\80bca23f-3fea-45f7-bbc4-d74310779792_qr-code.png",
+      "PackagePath": "staticwebassets\\images\\users\\80bca23f-3fea-45f7-bbc4-d74310779792_qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\84418942-9256-473c-8ada-8a53f7bdb6ae_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\84418942-9256-473c-8ada-8a53f7bdb6ae_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\87447e2a-eddf-4120-bfaf-561c7f654f96_Default_pfp.svg.png",
+      "PackagePath": "staticwebassets\\images\\users\\87447e2a-eddf-4120-bfaf-561c7f654f96_Default_pfp.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\89709c9a-d99a-48be-99fd-0a441801d3f7_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\89709c9a-d99a-48be-99fd-0a441801d3f7_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\97347a9e-5d65-4f6f-8950-30aa33e421d8_QR.png",
+      "PackagePath": "staticwebassets\\images\\users\\97347a9e-5d65-4f6f-8950-30aa33e421d8_QR.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\9a778e0a-8c4d-4844-b60a-355ad2069030_transperent-pizza.png",
+      "PackagePath": "staticwebassets\\images\\users\\9a778e0a-8c4d-4844-b60a-355ad2069030_transperent-pizza.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\b4bebe07-dd6f-4de1-a726-5660fdbc4e42_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\b4bebe07-dd6f-4de1-a726-5660fdbc4e42_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\b8293767-60d6-4de7-b2a8-378bb6448524_qr-code.png",
+      "PackagePath": "staticwebassets\\images\\users\\b8293767-60d6-4de7-b2a8-378bb6448524_qr-code.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c10099f2-a5e4-4301-9124-4657d6dee814_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\c10099f2-a5e4-4301-9124-4657d6dee814_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c3a1e71f-438a-47ae-8c2c-29e12019cbef_icons8-github-48.png",
+      "PackagePath": "staticwebassets\\images\\users\\c3a1e71f-438a-47ae-8c2c-29e12019cbef_icons8-github-48.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c48ed93c-e0e2-4f6d-837a-b107df6136b9_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\c48ed93c-e0e2-4f6d-837a-b107df6136b9_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\d1247a42-2a8f-4f43-b493-2361c230b804_Default_pfp.svg.png",
+      "PackagePath": "staticwebassets\\images\\users\\d1247a42-2a8f-4f43-b493-2361c230b804_Default_pfp.svg.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\d19d4baa-3550-4003-a7aa-1fae715149f9_icons8-up-arrow-50.png",
+      "PackagePath": "staticwebassets\\images\\users\\d19d4baa-3550-4003-a7aa-1fae715149f9_icons8-up-arrow-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\e6f29f76-72af-449e-9baf-8ba6c6a7ddb4_icons8-up-arrow-50.png",
+      "PackagePath": "staticwebassets\\images\\users\\e6f29f76-72af-449e-9baf-8ba6c6a7ddb4_icons8-up-arrow-50.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\e72896ea-eb63-4f4e-a739-85d406f0bc61_toppng.com-warning-icon-2400x2400.png",
+      "PackagePath": "staticwebassets\\images\\users\\e72896ea-eb63-4f4e-a739-85d406f0bc61_toppng.com-warning-icon-2400x2400.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\fa8fc38e-2bcd-409c-b1bc-48e25098fabd_dining-menu.png",
+      "PackagePath": "staticwebassets\\images\\users\\fa8fc38e-2bcd-409c-b1bc-48e25098fabd_dining-menu.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\fdb77637-d8d3-40b8-8a50-4ecbe3cd2eee_icons8-up-arrow-24.png",
+      "PackagePath": "staticwebassets\\images\\users\\fdb77637-d8d3-40b8-8a50-4ecbe3cd2eee_icons8-up-arrow-24.png"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.PizzaShop.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.PizzaShop.Web.props",
+      "PackagePath": "build\\PizzaShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.PizzaShop.Web.props",
+      "PackagePath": "buildMultiTargeting\\PizzaShop.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.PizzaShop.Web.props",
+      "PackagePath": "buildTransitive\\PizzaShop.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

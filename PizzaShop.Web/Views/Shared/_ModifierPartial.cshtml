@@ -1,0 +1,61 @@
+@* @model PizzaShop.Domain.ViewModels.MenuViewModel *@
+@model List<PizzaShop.Domain.DataModels.Modifiergroup>
+
+
+@* <div id="modifiers"> *@
+<div class="row">
+    <div class="col-md-3">
+        <div class="list-group">
+            <a href="#" class="list-group-item active">Modifier Group <button
+                    class="btn btn-sm btn-primary border float-end" data-bs-toggle="modal"
+                    data-bs-target="#addModifierGroupModal">+</button></a>
+
+            @if (Model != null)
+            {
+
+
+                @foreach (var modifierGroup in Model)
+                {
+                    <div class="list-group-item d-flex align-items-center modifier-group-row" data-id="@modifierGroup.Id"
+                        onclick="fetchModifierItems(@modifierGroup.Id)">
+                        <div class="modifier-group-name"><img height="24" width="24" src="~/images/dining-menu.png" alt="">
+                            @modifierGroup.Name</div>
+                        <div class="action-icons">
+                            <img src="~/images/icons8-pencil-50.png" class="edit-icon" title="Edit"
+                                onclick="openEditModifierModal(event, @modifierGroup.Id, '@modifierGroup.Name', '@modifierGroup.Description')">
+                            <img src="~/images/icons8-delete-80.png" class="delete-icon" title="Delete"
+                                onclick="openDeleteModifierModal(event, @modifierGroup.Id)">
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+    <div class="col-md-9">
+        <h4 class="text-primary">Modifiers</h4>
+        <div class="d-flex flex-row-reverse mb-2">
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modifierItemModal">
+                New Modifier</button>
+            <button class="btn border"><img src="~/images/icons8-delete-80.png" height="24" width="24" alt=""></button>
+            <input type="text" class="form-control w-25" placeholder="Search..." id="modifierSearchBox">
+        </div>
+        <div class="table-container">
+            <table class="table table-bordered modifier_table" id="modifierTable">
+                <thead>
+                    <tr>
+                        <th><input type="checkbox"></th>
+                        <th>Name</th>
+                        <th>Rate</th>
+                        <th>Quantity</th>
+                        <th>Available</th>
+                        <th>Action</th>
+                    </tr>
+                </thead>
+                <tbody id="modifierTableBody">
+                    <!-- Modifier items will be displayed here -->
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+@* </div> *@
