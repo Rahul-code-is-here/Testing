@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "O739FFgS0Ra+tOIMvdkIeUvR7B/XA1f3rrpK3zVagNg=",
+  "Hash": "GFagNz7VfldBl+cc2DPg+OaDBVdQVuoHbMckUXq9hcI=",
   "Source": "PizzaShop.Web",
   "BasePath": "_content/PizzaShop.Web",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
       "Version": 2,
       "Source": "PizzaShop.Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
@@ -22,17 +22,17 @@
     {
       "Name": "PizzaShop.Web\\wwwroot",
       "Source": "PizzaShop.Web",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css",
       "SourceId": "PizzaShop.Domain",
       "SourceType": "Project",
-      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PizzaShop.Domain",
       "RelativePath": "PizzaShop.Domain.bundle.scp.css",
       "AssetKind": "All",
@@ -43,13 +43,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Web.styles.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Web.styles.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "PizzaShop.Web.styles.css",
       "AssetKind": "All",
@@ -60,13 +60,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Web.styles.css"
+      "OriginalItemSpec": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Web.bundle.scp.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Web.bundle.scp.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "PizzaShop.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -77,13 +77,30 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Web.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\_pizzaCommon.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "css/_pizzaCommon.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\_pizzaCommon.css"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -97,10 +114,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\bootstrap.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -114,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\site.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\site.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -131,10 +148,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\style.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\css\\style.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -148,10 +165,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\EmailTemplate\\NewUserEmail.html",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\EmailTemplate\\NewUserEmail.html",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "EmailTemplate/NewUserEmail.html",
       "AssetKind": "All",
@@ -165,10 +182,10 @@
       "OriginalItemSpec": "wwwroot\\EmailTemplate\\NewUserEmail.html"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\EmailTemplate\\ResetPasswordBody.html",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\EmailTemplate\\ResetPasswordBody.html",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "EmailTemplate/ResetPasswordBody.html",
       "AssetKind": "All",
@@ -182,10 +199,10 @@
       "OriginalItemSpec": "wwwroot\\EmailTemplate\\ResetPasswordBody.html"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\favicon.ico",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\favicon.ico",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -199,10 +216,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\3dot.webp",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\3dot.webp",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/3dot.webp",
       "AssetKind": "All",
@@ -216,10 +233,10 @@
       "OriginalItemSpec": "wwwroot\\images\\3dot.webp"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\6_dotss.webp",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\6_dotss.webp",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/6_dotss.webp",
       "AssetKind": "All",
@@ -233,10 +250,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6_dotss.webp"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\6dot.jfif",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\6dot.jfif",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/6dot.jfif",
       "AssetKind": "All",
@@ -250,10 +267,10 @@
       "OriginalItemSpec": "wwwroot\\images\\6dot.jfif"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\account.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\account.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/account.png",
       "AssetKind": "All",
@@ -267,10 +284,10 @@
       "OriginalItemSpec": "wwwroot\\images\\account.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\add-list.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\add-list.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/add-list.png",
       "AssetKind": "All",
@@ -284,10 +301,10 @@
       "OriginalItemSpec": "wwwroot\\images\\add-list.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\arrow.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\arrow.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/arrow.png",
       "AssetKind": "All",
@@ -301,10 +318,10 @@
       "OriginalItemSpec": "wwwroot\\images\\arrow.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\client_5895695.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\client_5895695.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/client_5895695.png",
       "AssetKind": "All",
@@ -318,10 +335,10 @@
       "OriginalItemSpec": "wwwroot\\images\\client_5895695.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\cutlery.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\cutlery.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/cutlery.png",
       "AssetKind": "All",
@@ -335,10 +352,10 @@
       "OriginalItemSpec": "wwwroot\\images\\cutlery.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Default_pfp.svg.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Default_pfp.svg.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/Default_pfp.svg.png",
       "AssetKind": "All",
@@ -352,10 +369,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Default_pfp.svg.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/dining-menu.png",
       "AssetKind": "All",
@@ -369,10 +386,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\dominos_background.jpg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\dominos_background.jpg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/dominos_background.jpg",
       "AssetKind": "All",
@@ -386,10 +403,10 @@
       "OriginalItemSpec": "wwwroot\\images\\dominos_background.jpg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\download-from-cloud_icon-icons.com_54289.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\download-from-cloud_icon-icons.com_54289.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/download-from-cloud_icon-icons.com_54289.png",
       "AssetKind": "All",
@@ -403,10 +420,10 @@
       "OriginalItemSpec": "wwwroot\\images\\download-from-cloud_icon-icons.com_54289.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\arrow-clockwise.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\arrow-clockwise.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/arrow-clockwise.svg",
       "AssetKind": "All",
@@ -420,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\arrow-clockwise.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\border-all.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\border-all.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/border-all.svg",
       "AssetKind": "All",
@@ -437,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\border-all.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\box-arrow-right.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\box-arrow-right.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/box-arrow-right.svg",
       "AssetKind": "All",
@@ -454,10 +471,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\box-arrow-right.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\camera.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\camera.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/camera.svg",
       "AssetKind": "All",
@@ -471,10 +488,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\camera.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\cash-coin.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\cash-coin.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/cash-coin.svg",
       "AssetKind": "All",
@@ -488,10 +505,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\cash-coin.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\chevron-left.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\chevron-left.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/chevron-left.svg",
       "AssetKind": "All",
@@ -505,10 +522,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\chevron-left.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\chevron-right.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\chevron-right.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/chevron-right.svg",
       "AssetKind": "All",
@@ -522,10 +539,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\chevron-right.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\clipboard-check.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\clipboard-check.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/clipboard-check.svg",
       "AssetKind": "All",
@@ -539,10 +556,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\clipboard-check.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\clipboard.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\clipboard.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/clipboard.svg",
       "AssetKind": "All",
@@ -556,10 +573,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\clipboard.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\cloud-arrow-up.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\cloud-arrow-up.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/cloud-arrow-up.svg",
       "AssetKind": "All",
@@ -573,10 +590,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\cloud-arrow-up.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\customer.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\customer.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/customer.svg",
       "AssetKind": "All",
@@ -590,10 +607,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\customer.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\dinner-table.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\dinner-table.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/dinner-table.svg",
       "AssetKind": "All",
@@ -607,10 +624,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\dinner-table.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\dots-six-vertical-thin-svgrepo-com.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\dots-six-vertical-thin-svgrepo-com.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/dots-six-vertical-thin-svgrepo-com.svg",
       "AssetKind": "All",
@@ -624,10 +641,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\dots-six-vertical-thin-svgrepo-com.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\list.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\list.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/list.svg",
       "AssetKind": "All",
@@ -641,10 +658,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\list.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\non-veg-icon.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\non-veg-icon.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/non-veg-icon.svg",
       "AssetKind": "All",
@@ -658,10 +675,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\non-veg-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\order-value.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\order-value.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/order-value.svg",
       "AssetKind": "All",
@@ -675,10 +692,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\order-value.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\pen.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\pen.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/pen.svg",
       "AssetKind": "All",
@@ -692,10 +709,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\pen.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\people.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\people.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/people.svg",
       "AssetKind": "All",
@@ -709,10 +726,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\people.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\person-gear.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\person-gear.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/person-gear.svg",
       "AssetKind": "All",
@@ -726,10 +743,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\person-gear.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\person-rolodex.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\person-rolodex.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/person-rolodex.svg",
       "AssetKind": "All",
@@ -743,10 +760,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\person-rolodex.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\plus-square.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\plus-square.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/plus-square.svg",
       "AssetKind": "All",
@@ -760,10 +777,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\plus-square.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\search.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\search.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/search.svg",
       "AssetKind": "All",
@@ -777,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\search.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\square.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\square.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/square.svg",
       "AssetKind": "All",
@@ -794,10 +811,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\square.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\total-orders.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\total-orders.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/total-orders.svg",
       "AssetKind": "All",
@@ -811,10 +828,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\total-orders.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\total-sales.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\total-sales.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/total-sales.svg",
       "AssetKind": "All",
@@ -828,10 +845,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\total-sales.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\trash.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\trash.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/trash.svg",
       "AssetKind": "All",
@@ -845,10 +862,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\trash.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\veg-icon.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\veg-icon.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/veg-icon.svg",
       "AssetKind": "All",
@@ -862,10 +879,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\veg-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\vegan-icon.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\vegan-icon.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/vegan-icon.svg",
       "AssetKind": "All",
@@ -879,10 +896,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\vegan-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\waiting-list.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\waiting-list.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/waiting-list.svg",
       "AssetKind": "All",
@@ -896,10 +913,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\waiting-list.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\waiting-time.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons\\waiting-time.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons/waiting-time.svg",
       "AssetKind": "All",
@@ -913,10 +930,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons\\waiting-time.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-delete-80.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-delete-80.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-delete-80.png",
       "AssetKind": "All",
@@ -930,10 +947,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-delete-80.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-donald-trump-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-donald-trump-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-donald-trump-50.png",
       "AssetKind": "All",
@@ -947,10 +964,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-donald-trump-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-down-arrow-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-down-arrow-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-down-arrow-50.png",
       "AssetKind": "All",
@@ -964,10 +981,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-down-arrow-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-order-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-order-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-order-50.png",
       "AssetKind": "All",
@@ -981,10 +998,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-order-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-pencil-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-pencil-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-pencil-50.png",
       "AssetKind": "All",
@@ -998,10 +1015,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-pencil-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-plus-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-plus-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-plus-50.png",
       "AssetKind": "All",
@@ -1015,10 +1032,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-plus-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-rectangle-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-rectangle-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-rectangle-50.png",
       "AssetKind": "All",
@@ -1032,10 +1049,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-rectangle-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-up-arrow-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\icons8-up-arrow-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/icons8-up-arrow-50.png",
       "AssetKind": "All",
@@ -1049,10 +1066,10 @@
       "OriginalItemSpec": "wwwroot\\images\\icons8-up-arrow-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\07b87324-ac9e-41f2-9035-8054b36445a4.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\07b87324-ac9e-41f2-9035-8054b36445a4.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/07b87324-ac9e-41f2-9035-8054b36445a4.png",
       "AssetKind": "All",
@@ -1066,10 +1083,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\07b87324-ac9e-41f2-9035-8054b36445a4.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\126e173a-41b0-4d1d-ae04-387839971d80.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\126e173a-41b0-4d1d-ae04-387839971d80.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/126e173a-41b0-4d1d-ae04-387839971d80.png",
       "AssetKind": "All",
@@ -1083,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\126e173a-41b0-4d1d-ae04-387839971d80.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\1d9a6a3a-1585-4bc1-83f3-6f5791035856.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\1d9a6a3a-1585-4bc1-83f3-6f5791035856.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/1d9a6a3a-1585-4bc1-83f3-6f5791035856.png",
       "AssetKind": "All",
@@ -1100,10 +1117,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\1d9a6a3a-1585-4bc1-83f3-6f5791035856.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\22f94749-2a29-4dd3-bf6a-4d52d3dd3b0b.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\22f94749-2a29-4dd3-bf6a-4d52d3dd3b0b.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/22f94749-2a29-4dd3-bf6a-4d52d3dd3b0b.png",
       "AssetKind": "All",
@@ -1117,10 +1134,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\22f94749-2a29-4dd3-bf6a-4d52d3dd3b0b.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\2495bcd9-3a5e-408d-9596-ec0936671fd3.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\2495bcd9-3a5e-408d-9596-ec0936671fd3.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/2495bcd9-3a5e-408d-9596-ec0936671fd3.png",
       "AssetKind": "All",
@@ -1134,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\2495bcd9-3a5e-408d-9596-ec0936671fd3.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\24ab6fe2-fa79-495d-b4b9-599d1c0fe2ae.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\24ab6fe2-fa79-495d-b4b9-599d1c0fe2ae.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/24ab6fe2-fa79-495d-b4b9-599d1c0fe2ae.png",
       "AssetKind": "All",
@@ -1151,10 +1168,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\24ab6fe2-fa79-495d-b4b9-599d1c0fe2ae.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\2f5383b2-3db6-4091-b499-88aa52a1d167.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\2f5383b2-3db6-4091-b499-88aa52a1d167.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/2f5383b2-3db6-4091-b499-88aa52a1d167.png",
       "AssetKind": "All",
@@ -1168,10 +1185,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\2f5383b2-3db6-4091-b499-88aa52a1d167.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\496e6bcc-a205-4c6d-ac12-f9e88600efb2.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\496e6bcc-a205-4c6d-ac12-f9e88600efb2.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/496e6bcc-a205-4c6d-ac12-f9e88600efb2.png",
       "AssetKind": "All",
@@ -1185,10 +1202,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\496e6bcc-a205-4c6d-ac12-f9e88600efb2.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\5a9f1aec-4775-4ce0-8ec7-b9699807ad9f.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\5a9f1aec-4775-4ce0-8ec7-b9699807ad9f.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/5a9f1aec-4775-4ce0-8ec7-b9699807ad9f.png",
       "AssetKind": "All",
@@ -1202,10 +1219,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\5a9f1aec-4775-4ce0-8ec7-b9699807ad9f.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\611e9863-15f2-4188-b873-3b78eecfbd29.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\611e9863-15f2-4188-b873-3b78eecfbd29.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/611e9863-15f2-4188-b873-3b78eecfbd29.png",
       "AssetKind": "All",
@@ -1219,10 +1236,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\611e9863-15f2-4188-b873-3b78eecfbd29.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\6904aa22-53ce-4fb8-a79e-99407eb4a012.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\6904aa22-53ce-4fb8-a79e-99407eb4a012.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/6904aa22-53ce-4fb8-a79e-99407eb4a012.png",
       "AssetKind": "All",
@@ -1236,10 +1253,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\6904aa22-53ce-4fb8-a79e-99407eb4a012.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\73d2e365-f259-4213-ba13-94614cc92079.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\73d2e365-f259-4213-ba13-94614cc92079.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/73d2e365-f259-4213-ba13-94614cc92079.png",
       "AssetKind": "All",
@@ -1253,10 +1270,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\73d2e365-f259-4213-ba13-94614cc92079.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\8835e869-4af0-4ff7-8d92-e1dc4df63268.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\8835e869-4af0-4ff7-8d92-e1dc4df63268.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/8835e869-4af0-4ff7-8d92-e1dc4df63268.png",
       "AssetKind": "All",
@@ -1270,10 +1287,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\8835e869-4af0-4ff7-8d92-e1dc4df63268.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\9ce4b589-845f-4a1b-958b-93d317089512.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\9ce4b589-845f-4a1b-958b-93d317089512.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/9ce4b589-845f-4a1b-958b-93d317089512.png",
       "AssetKind": "All",
@@ -1287,10 +1304,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\9ce4b589-845f-4a1b-958b-93d317089512.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\b327bee6-6323-45a4-8cf3-300870092964.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\b327bee6-6323-45a4-8cf3-300870092964.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/b327bee6-6323-45a4-8cf3-300870092964.png",
       "AssetKind": "All",
@@ -1304,10 +1321,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\b327bee6-6323-45a4-8cf3-300870092964.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\b3533f66-cf46-44ec-b1e4-e3461d5f4705.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\b3533f66-cf46-44ec-b1e4-e3461d5f4705.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/b3533f66-cf46-44ec-b1e4-e3461d5f4705.png",
       "AssetKind": "All",
@@ -1321,10 +1338,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\b3533f66-cf46-44ec-b1e4-e3461d5f4705.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\c63af485-ec4d-48b6-ad4e-d208a79f826b.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\c63af485-ec4d-48b6-ad4e-d208a79f826b.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/c63af485-ec4d-48b6-ad4e-d208a79f826b.png",
       "AssetKind": "All",
@@ -1338,10 +1355,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\c63af485-ec4d-48b6-ad4e-d208a79f826b.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\c6a7f865-1d96-4c73-86dd-4496be3cefa0.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\c6a7f865-1d96-4c73-86dd-4496be3cefa0.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/c6a7f865-1d96-4c73-86dd-4496be3cefa0.png",
       "AssetKind": "All",
@@ -1355,10 +1372,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\c6a7f865-1d96-4c73-86dd-4496be3cefa0.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\cf8f2e96-62d4-448f-9665-0da5db55307e.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\cf8f2e96-62d4-448f-9665-0da5db55307e.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/cf8f2e96-62d4-448f-9665-0da5db55307e.png",
       "AssetKind": "All",
@@ -1372,10 +1389,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\cf8f2e96-62d4-448f-9665-0da5db55307e.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d59b9a64-9777-490e-9a23-9581e1f7dde4.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d59b9a64-9777-490e-9a23-9581e1f7dde4.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/d59b9a64-9777-490e-9a23-9581e1f7dde4.png",
       "AssetKind": "All",
@@ -1389,10 +1406,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\d59b9a64-9777-490e-9a23-9581e1f7dde4.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d73f6cb8-d5c0-4474-9392-1bdc129c165a.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d73f6cb8-d5c0-4474-9392-1bdc129c165a.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/d73f6cb8-d5c0-4474-9392-1bdc129c165a.png",
       "AssetKind": "All",
@@ -1406,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\d73f6cb8-d5c0-4474-9392-1bdc129c165a.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d8012899-fa4b-4a28-b923-714cd78d2d96.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\d8012899-fa4b-4a28-b923-714cd78d2d96.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/d8012899-fa4b-4a28-b923-714cd78d2d96.png",
       "AssetKind": "All",
@@ -1423,10 +1440,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\d8012899-fa4b-4a28-b923-714cd78d2d96.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\e7b03b8a-e306-4141-aa30-dac43d836e2e.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\e7b03b8a-e306-4141-aa30-dac43d836e2e.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/e7b03b8a-e306-4141-aa30-dac43d836e2e.png",
       "AssetKind": "All",
@@ -1440,10 +1457,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\e7b03b8a-e306-4141-aa30-dac43d836e2e.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\e9afa2cd-b0d9-4aba-a418-a7a0ddcc76f6.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\ItemImage\\e9afa2cd-b0d9-4aba-a418-a7a0ddcc76f6.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/ItemImage/e9afa2cd-b0d9-4aba-a418-a7a0ddcc76f6.png",
       "AssetKind": "All",
@@ -1457,10 +1474,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ItemImage\\e9afa2cd-b0d9-4aba-a418-a7a0ddcc76f6.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\key.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\key.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/key.png",
       "AssetKind": "All",
@@ -1474,10 +1491,10 @@
       "OriginalItemSpec": "wwwroot\\images\\key.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-facebook-48.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-facebook-48.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/logos/icons8-facebook-48.png",
       "AssetKind": "All",
@@ -1491,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\icons8-facebook-48.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-github-48.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-github-48.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/logos/icons8-github-48.png",
       "AssetKind": "All",
@@ -1508,10 +1525,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\icons8-github-48.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-google-48.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\icons8-google-48.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/logos/icons8-google-48.png",
       "AssetKind": "All",
@@ -1525,10 +1542,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\icons8-google-48.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\pizzashop_logo.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\logos\\pizzashop_logo.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/logos/pizzashop_logo.png",
       "AssetKind": "All",
@@ -1542,10 +1559,10 @@
       "OriginalItemSpec": "wwwroot\\images\\logos\\pizzashop_logo.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/menu.png",
       "AssetKind": "All",
@@ -1559,10 +1576,10 @@
       "OriginalItemSpec": "wwwroot\\images\\menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Non veg.jpg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Non veg.jpg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/Non veg.jpg",
       "AssetKind": "All",
@@ -1576,10 +1593,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Non veg.jpg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\profile_div_bg.jpg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\profile_div_bg.jpg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/profile_div_bg.jpg",
       "AssetKind": "All",
@@ -1593,10 +1610,10 @@
       "OriginalItemSpec": "wwwroot\\images\\profile_div_bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\qr-code.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\qr-code.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/qr-code.png",
       "AssetKind": "All",
@@ -1610,10 +1627,10 @@
       "OriginalItemSpec": "wwwroot\\images\\qr-code.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\QR.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\QR.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/QR.png",
       "AssetKind": "All",
@@ -1627,10 +1644,10 @@
       "OriginalItemSpec": "wwwroot\\images\\QR.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\search-icon.svg",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\search-icon.svg",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/search-icon.svg",
       "AssetKind": "All",
@@ -1644,10 +1661,10 @@
       "OriginalItemSpec": "wwwroot\\images\\search-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\tax.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\tax.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/tax.png",
       "AssetKind": "All",
@@ -1661,10 +1678,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tax.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\toppng.com-warning-icon-2400x2400.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\toppng.com-warning-icon-2400x2400.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/toppng.com-warning-icon-2400x2400.png",
       "AssetKind": "All",
@@ -1678,10 +1695,10 @@
       "OriginalItemSpec": "wwwroot\\images\\toppng.com-warning-icon-2400x2400.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\transperent-pizza.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\transperent-pizza.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/transperent-pizza.png",
       "AssetKind": "All",
@@ -1695,10 +1712,10 @@
       "OriginalItemSpec": "wwwroot\\images\\transperent-pizza.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\triangle_11004056.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\triangle_11004056.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/triangle_11004056.png",
       "AssetKind": "All",
@@ -1712,10 +1729,10 @@
       "OriginalItemSpec": "wwwroot\\images\\triangle_11004056.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\user.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\user.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/user.png",
       "AssetKind": "All",
@@ -1729,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\user1.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\user1.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/user1.png",
       "AssetKind": "All",
@@ -1746,10 +1763,10 @@
       "OriginalItemSpec": "wwwroot\\images\\user1.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\0ccef45b-6de5-416b-a1c3-3a12ff2c3180_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\0ccef45b-6de5-416b-a1c3-3a12ff2c3180_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/0ccef45b-6de5-416b-a1c3-3a12ff2c3180_dining-menu.png",
       "AssetKind": "All",
@@ -1763,10 +1780,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\0ccef45b-6de5-416b-a1c3-3a12ff2c3180_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\1053fb71-29ed-485e-9bed-9efbbbe908c4_qr-code.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\1053fb71-29ed-485e-9bed-9efbbbe908c4_qr-code.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/1053fb71-29ed-485e-9bed-9efbbbe908c4_qr-code.png",
       "AssetKind": "All",
@@ -1780,10 +1797,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\1053fb71-29ed-485e-9bed-9efbbbe908c4_qr-code.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\134eaa64-6123-4ad2-a9f0-7b79db549842_download-from-cloud_icon-icons.com_54289.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\134eaa64-6123-4ad2-a9f0-7b79db549842_download-from-cloud_icon-icons.com_54289.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/134eaa64-6123-4ad2-a9f0-7b79db549842_download-from-cloud_icon-icons.com_54289.png",
       "AssetKind": "All",
@@ -1797,10 +1814,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\134eaa64-6123-4ad2-a9f0-7b79db549842_download-from-cloud_icon-icons.com_54289.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\19f4b235-3b19-421c-a981-646ca4263af4_icons8-up-arrow-24.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\19f4b235-3b19-421c-a981-646ca4263af4_icons8-up-arrow-24.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/19f4b235-3b19-421c-a981-646ca4263af4_icons8-up-arrow-24.png",
       "AssetKind": "All",
@@ -1814,10 +1831,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\19f4b235-3b19-421c-a981-646ca4263af4_icons8-up-arrow-24.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\1d232cdb-a3bd-422a-8214-0eacd4e0f75c_transperent-pizza.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\1d232cdb-a3bd-422a-8214-0eacd4e0f75c_transperent-pizza.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/1d232cdb-a3bd-422a-8214-0eacd4e0f75c_transperent-pizza.png",
       "AssetKind": "All",
@@ -1831,10 +1848,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\1d232cdb-a3bd-422a-8214-0eacd4e0f75c_transperent-pizza.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2179c7c8-7da2-4f97-a011-c29d334a9a94_toppng.com-warning-icon-2400x2400.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2179c7c8-7da2-4f97-a011-c29d334a9a94_toppng.com-warning-icon-2400x2400.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/2179c7c8-7da2-4f97-a011-c29d334a9a94_toppng.com-warning-icon-2400x2400.png",
       "AssetKind": "All",
@@ -1848,10 +1865,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\2179c7c8-7da2-4f97-a011-c29d334a9a94_toppng.com-warning-icon-2400x2400.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\21919a59-8b89-4a4a-94e0-e023537b19ab_QR.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\21919a59-8b89-4a4a-94e0-e023537b19ab_QR.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/21919a59-8b89-4a4a-94e0-e023537b19ab_QR.png",
       "AssetKind": "All",
@@ -1865,10 +1882,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\21919a59-8b89-4a4a-94e0-e023537b19ab_QR.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2198efc4-36ce-47fd-b302-f644f1806c04_toppng.com-warning-icon-2400x2400.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2198efc4-36ce-47fd-b302-f644f1806c04_toppng.com-warning-icon-2400x2400.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/2198efc4-36ce-47fd-b302-f644f1806c04_toppng.com-warning-icon-2400x2400.png",
       "AssetKind": "All",
@@ -1882,10 +1899,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\2198efc4-36ce-47fd-b302-f644f1806c04_toppng.com-warning-icon-2400x2400.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\223a5087-a31c-4850-bc08-29eb266814d7_icons8-up-arrow-32.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\223a5087-a31c-4850-bc08-29eb266814d7_icons8-up-arrow-32.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/223a5087-a31c-4850-bc08-29eb266814d7_icons8-up-arrow-32.png",
       "AssetKind": "All",
@@ -1899,10 +1916,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\223a5087-a31c-4850-bc08-29eb266814d7_icons8-up-arrow-32.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\22c2af21-72a8-4540-8002-0d0ca3dd2f7a_toppng.com-warning-icon-2400x2400.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\22c2af21-72a8-4540-8002-0d0ca3dd2f7a_toppng.com-warning-icon-2400x2400.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/22c2af21-72a8-4540-8002-0d0ca3dd2f7a_toppng.com-warning-icon-2400x2400.png",
       "AssetKind": "All",
@@ -1916,10 +1933,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\22c2af21-72a8-4540-8002-0d0ca3dd2f7a_toppng.com-warning-icon-2400x2400.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2b5b5647-5081-41eb-82b9-b7908b78d297_Default_pfp.svg.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\2b5b5647-5081-41eb-82b9-b7908b78d297_Default_pfp.svg.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/2b5b5647-5081-41eb-82b9-b7908b78d297_Default_pfp.svg.png",
       "AssetKind": "All",
@@ -1933,10 +1950,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\2b5b5647-5081-41eb-82b9-b7908b78d297_Default_pfp.svg.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\376b6565-078f-4746-b5b8-5cb02dc1cc70_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\376b6565-078f-4746-b5b8-5cb02dc1cc70_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/376b6565-078f-4746-b5b8-5cb02dc1cc70_dining-menu.png",
       "AssetKind": "All",
@@ -1950,10 +1967,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\376b6565-078f-4746-b5b8-5cb02dc1cc70_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4a25d71b-9722-4146-9d7a-2e0b8b2d2406_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4a25d71b-9722-4146-9d7a-2e0b8b2d2406_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/4a25d71b-9722-4146-9d7a-2e0b8b2d2406_dining-menu.png",
       "AssetKind": "All",
@@ -1967,10 +1984,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\4a25d71b-9722-4146-9d7a-2e0b8b2d2406_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4ca1664e-0254-4e3e-9d9e-2b1f12a1cb8b_icons8-up-arrow-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4ca1664e-0254-4e3e-9d9e-2b1f12a1cb8b_icons8-up-arrow-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/4ca1664e-0254-4e3e-9d9e-2b1f12a1cb8b_icons8-up-arrow-50.png",
       "AssetKind": "All",
@@ -1984,10 +2001,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\4ca1664e-0254-4e3e-9d9e-2b1f12a1cb8b_icons8-up-arrow-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4de3e57a-cc2f-41e4-8f02-42b97460a3b8_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\4de3e57a-cc2f-41e4-8f02-42b97460a3b8_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/4de3e57a-cc2f-41e4-8f02-42b97460a3b8_dining-menu.png",
       "AssetKind": "All",
@@ -2001,10 +2018,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\4de3e57a-cc2f-41e4-8f02-42b97460a3b8_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5207ab34-ebbc-4eb1-a98b-631d3535cdac_qr-code.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5207ab34-ebbc-4eb1-a98b-631d3535cdac_qr-code.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/5207ab34-ebbc-4eb1-a98b-631d3535cdac_qr-code.png",
       "AssetKind": "All",
@@ -2018,10 +2035,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\5207ab34-ebbc-4eb1-a98b-631d3535cdac_qr-code.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5c051ad7-4966-4094-9277-3e7fc1053795_qr-code.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5c051ad7-4966-4094-9277-3e7fc1053795_qr-code.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/5c051ad7-4966-4094-9277-3e7fc1053795_qr-code.png",
       "AssetKind": "All",
@@ -2035,10 +2052,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\5c051ad7-4966-4094-9277-3e7fc1053795_qr-code.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5d7d64a7-4e7e-42b5-8158-6313795be0ce_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\5d7d64a7-4e7e-42b5-8158-6313795be0ce_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/5d7d64a7-4e7e-42b5-8158-6313795be0ce_dining-menu.png",
       "AssetKind": "All",
@@ -2052,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\5d7d64a7-4e7e-42b5-8158-6313795be0ce_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\60691af3-053f-4a78-9d2a-c7f6bfd909d5_transperent-pizza.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\60691af3-053f-4a78-9d2a-c7f6bfd909d5_transperent-pizza.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/60691af3-053f-4a78-9d2a-c7f6bfd909d5_transperent-pizza.png",
       "AssetKind": "All",
@@ -2069,10 +2086,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\60691af3-053f-4a78-9d2a-c7f6bfd909d5_transperent-pizza.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\634ed73c-5c3b-4352-bfd3-07848f0cd60b_Veg.jfif",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\634ed73c-5c3b-4352-bfd3-07848f0cd60b_Veg.jfif",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/634ed73c-5c3b-4352-bfd3-07848f0cd60b_Veg.jfif",
       "AssetKind": "All",
@@ -2086,10 +2103,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\634ed73c-5c3b-4352-bfd3-07848f0cd60b_Veg.jfif"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\63784b6e-bbe7-4ef7-b128-efea1dd1a7db_cutlery.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\63784b6e-bbe7-4ef7-b128-efea1dd1a7db_cutlery.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/63784b6e-bbe7-4ef7-b128-efea1dd1a7db_cutlery.png",
       "AssetKind": "All",
@@ -2103,10 +2120,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\63784b6e-bbe7-4ef7-b128-efea1dd1a7db_cutlery.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\707ab212-4a4d-43b0-933e-8c5fe4e65873_add-list.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\707ab212-4a4d-43b0-933e-8c5fe4e65873_add-list.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/707ab212-4a4d-43b0-933e-8c5fe4e65873_add-list.png",
       "AssetKind": "All",
@@ -2120,10 +2137,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\707ab212-4a4d-43b0-933e-8c5fe4e65873_add-list.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\80bca23f-3fea-45f7-bbc4-d74310779792_qr-code.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\80bca23f-3fea-45f7-bbc4-d74310779792_qr-code.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/80bca23f-3fea-45f7-bbc4-d74310779792_qr-code.png",
       "AssetKind": "All",
@@ -2137,10 +2154,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\80bca23f-3fea-45f7-bbc4-d74310779792_qr-code.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\84418942-9256-473c-8ada-8a53f7bdb6ae_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\84418942-9256-473c-8ada-8a53f7bdb6ae_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/84418942-9256-473c-8ada-8a53f7bdb6ae_dining-menu.png",
       "AssetKind": "All",
@@ -2154,10 +2171,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\84418942-9256-473c-8ada-8a53f7bdb6ae_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\87447e2a-eddf-4120-bfaf-561c7f654f96_Default_pfp.svg.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\87447e2a-eddf-4120-bfaf-561c7f654f96_Default_pfp.svg.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/87447e2a-eddf-4120-bfaf-561c7f654f96_Default_pfp.svg.png",
       "AssetKind": "All",
@@ -2171,10 +2188,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\87447e2a-eddf-4120-bfaf-561c7f654f96_Default_pfp.svg.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\89709c9a-d99a-48be-99fd-0a441801d3f7_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\89709c9a-d99a-48be-99fd-0a441801d3f7_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/89709c9a-d99a-48be-99fd-0a441801d3f7_dining-menu.png",
       "AssetKind": "All",
@@ -2188,10 +2205,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\89709c9a-d99a-48be-99fd-0a441801d3f7_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\97347a9e-5d65-4f6f-8950-30aa33e421d8_QR.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\97347a9e-5d65-4f6f-8950-30aa33e421d8_QR.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/97347a9e-5d65-4f6f-8950-30aa33e421d8_QR.png",
       "AssetKind": "All",
@@ -2205,10 +2222,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\97347a9e-5d65-4f6f-8950-30aa33e421d8_QR.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\9a778e0a-8c4d-4844-b60a-355ad2069030_transperent-pizza.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\9a778e0a-8c4d-4844-b60a-355ad2069030_transperent-pizza.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/9a778e0a-8c4d-4844-b60a-355ad2069030_transperent-pizza.png",
       "AssetKind": "All",
@@ -2222,10 +2239,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\9a778e0a-8c4d-4844-b60a-355ad2069030_transperent-pizza.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\b4bebe07-dd6f-4de1-a726-5660fdbc4e42_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\b4bebe07-dd6f-4de1-a726-5660fdbc4e42_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/b4bebe07-dd6f-4de1-a726-5660fdbc4e42_dining-menu.png",
       "AssetKind": "All",
@@ -2239,10 +2256,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\b4bebe07-dd6f-4de1-a726-5660fdbc4e42_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\b8293767-60d6-4de7-b2a8-378bb6448524_qr-code.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\b8293767-60d6-4de7-b2a8-378bb6448524_qr-code.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/b8293767-60d6-4de7-b2a8-378bb6448524_qr-code.png",
       "AssetKind": "All",
@@ -2256,10 +2273,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\b8293767-60d6-4de7-b2a8-378bb6448524_qr-code.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c10099f2-a5e4-4301-9124-4657d6dee814_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c10099f2-a5e4-4301-9124-4657d6dee814_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/c10099f2-a5e4-4301-9124-4657d6dee814_dining-menu.png",
       "AssetKind": "All",
@@ -2273,10 +2290,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\c10099f2-a5e4-4301-9124-4657d6dee814_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c3a1e71f-438a-47ae-8c2c-29e12019cbef_icons8-github-48.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c3a1e71f-438a-47ae-8c2c-29e12019cbef_icons8-github-48.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/c3a1e71f-438a-47ae-8c2c-29e12019cbef_icons8-github-48.png",
       "AssetKind": "All",
@@ -2290,10 +2307,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\c3a1e71f-438a-47ae-8c2c-29e12019cbef_icons8-github-48.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c48ed93c-e0e2-4f6d-837a-b107df6136b9_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\c48ed93c-e0e2-4f6d-837a-b107df6136b9_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/c48ed93c-e0e2-4f6d-837a-b107df6136b9_dining-menu.png",
       "AssetKind": "All",
@@ -2307,10 +2324,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\c48ed93c-e0e2-4f6d-837a-b107df6136b9_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\d1247a42-2a8f-4f43-b493-2361c230b804_Default_pfp.svg.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\d1247a42-2a8f-4f43-b493-2361c230b804_Default_pfp.svg.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/d1247a42-2a8f-4f43-b493-2361c230b804_Default_pfp.svg.png",
       "AssetKind": "All",
@@ -2324,10 +2341,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\d1247a42-2a8f-4f43-b493-2361c230b804_Default_pfp.svg.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\d19d4baa-3550-4003-a7aa-1fae715149f9_icons8-up-arrow-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\d19d4baa-3550-4003-a7aa-1fae715149f9_icons8-up-arrow-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/d19d4baa-3550-4003-a7aa-1fae715149f9_icons8-up-arrow-50.png",
       "AssetKind": "All",
@@ -2341,10 +2358,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\d19d4baa-3550-4003-a7aa-1fae715149f9_icons8-up-arrow-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\e6f29f76-72af-449e-9baf-8ba6c6a7ddb4_icons8-up-arrow-50.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\e6f29f76-72af-449e-9baf-8ba6c6a7ddb4_icons8-up-arrow-50.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/e6f29f76-72af-449e-9baf-8ba6c6a7ddb4_icons8-up-arrow-50.png",
       "AssetKind": "All",
@@ -2358,10 +2375,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\e6f29f76-72af-449e-9baf-8ba6c6a7ddb4_icons8-up-arrow-50.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\e72896ea-eb63-4f4e-a739-85d406f0bc61_toppng.com-warning-icon-2400x2400.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\e72896ea-eb63-4f4e-a739-85d406f0bc61_toppng.com-warning-icon-2400x2400.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/e72896ea-eb63-4f4e-a739-85d406f0bc61_toppng.com-warning-icon-2400x2400.png",
       "AssetKind": "All",
@@ -2375,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\e72896ea-eb63-4f4e-a739-85d406f0bc61_toppng.com-warning-icon-2400x2400.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\fa8fc38e-2bcd-409c-b1bc-48e25098fabd_dining-menu.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\fa8fc38e-2bcd-409c-b1bc-48e25098fabd_dining-menu.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/fa8fc38e-2bcd-409c-b1bc-48e25098fabd_dining-menu.png",
       "AssetKind": "All",
@@ -2392,10 +2409,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\fa8fc38e-2bcd-409c-b1bc-48e25098fabd_dining-menu.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\fdb77637-d8d3-40b8-8a50-4ecbe3cd2eee_icons8-up-arrow-24.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\users\\fdb77637-d8d3-40b8-8a50-4ecbe3cd2eee_icons8-up-arrow-24.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/users/fdb77637-d8d3-40b8-8a50-4ecbe3cd2eee_icons8-up-arrow-24.png",
       "AssetKind": "All",
@@ -2409,10 +2426,10 @@
       "OriginalItemSpec": "wwwroot\\images\\users\\fdb77637-d8d3-40b8-8a50-4ecbe3cd2eee_icons8-up-arrow-24.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Veg.jfif",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\images\\Veg.jfif",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "images/Veg.jfif",
       "AssetKind": "All",
@@ -2426,10 +2443,231 @@
       "OriginalItemSpec": "wwwroot\\images\\Veg.jfif"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\site.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\addItems.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/addItems.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\addItems.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\addModifierGroup.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/addModifierGroup.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\addModifierGroup.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\AddModifierItem.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/AddModifierItem.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\AddModifierItem.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\addUser.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/addUser.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\addUser.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\changepassword.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/changepassword.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\changepassword.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\DeleteUser.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/DeleteUser.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\DeleteUser.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\editItems.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/editItems.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\editItems.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\editUser.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/editUser.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\editUser.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\fetchLocationDropDown.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/fetchLocationDropDown.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\fetchLocationDropDown.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\loader.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/loader.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\loader.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\login.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/login.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\login.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\modifierList.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/modifierList.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\modifierList.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\pagination.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/pagination.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\pagination.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\site.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2443,10 +2681,61 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\TableAndSection.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/TableAndSection.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\TableAndSection.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\taxAndFee.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/taxAndFee.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\taxAndFee.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\js\\UserList.js",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaShop.Web",
+      "RelativePath": "js/UserList.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\UserList.js"
+    },
+    {
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "PizzaShop.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2460,10 +2749,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2477,10 +2766,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2494,10 +2783,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2511,10 +2800,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2528,10 +2817,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2545,10 +2834,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2562,10 +2851,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2579,10 +2868,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2596,10 +2885,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2613,10 +2902,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2630,10 +2919,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2647,10 +2936,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2664,10 +2953,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2681,10 +2970,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2698,10 +2987,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2715,10 +3004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2732,10 +3021,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2749,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2766,10 +3055,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2783,10 +3072,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2800,10 +3089,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2817,10 +3106,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2834,10 +3123,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2851,10 +3140,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2868,10 +3157,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2885,10 +3174,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2902,10 +3191,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2919,10 +3208,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2936,10 +3225,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2953,10 +3242,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2970,10 +3259,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2987,10 +3276,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -3004,10 +3293,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -3021,10 +3310,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -3038,10 +3327,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -3055,10 +3344,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -3072,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -3089,10 +3378,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -3106,10 +3395,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -3123,10 +3412,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -3140,10 +3429,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -3157,10 +3446,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -3174,10 +3463,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3191,10 +3480,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3208,10 +3497,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3225,10 +3514,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3242,10 +3531,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -3259,10 +3548,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3276,10 +3565,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3293,10 +3582,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3310,10 +3599,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3327,10 +3616,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3344,10 +3633,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3361,10 +3650,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3378,10 +3667,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3395,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3412,10 +3701,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094247_cristiano .png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094247_cristiano .png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "Uploads/ProfileImages/20250313_094247_cristiano .png",
       "AssetKind": "All",
@@ -3429,10 +3718,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ProfileImages\\20250313_094247_cristiano .png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094302_cristiano .png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094302_cristiano .png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "Uploads/ProfileImages/20250313_094302_cristiano .png",
       "AssetKind": "All",
@@ -3446,10 +3735,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ProfileImages\\20250313_094302_cristiano .png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094350_cristiano .png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_094350_cristiano .png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "Uploads/ProfileImages/20250313_094350_cristiano .png",
       "AssetKind": "All",
@@ -3463,10 +3752,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ProfileImages\\20250313_094350_cristiano .png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_123546_alienx.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_123546_alienx.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "Uploads/ProfileImages/20250313_123546_alienx.png",
       "AssetKind": "All",
@@ -3480,10 +3769,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ProfileImages\\20250313_123546_alienx.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_125021_bentan.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_125021_bentan.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "Uploads/ProfileImages/20250313_125021_bentan.png",
       "AssetKind": "All",
@@ -3497,10 +3786,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ProfileImages\\20250313_125021_bentan.png"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_130246_falguni.png",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\Uploads\\ProfileImages\\20250313_130246_falguni.png",
       "SourceId": "PizzaShop.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Web\\wwwroot\\",
       "BasePath": "_content/PizzaShop.Web",
       "RelativePath": "Uploads/ProfileImages/20250313_130246_falguni.png",
       "AssetKind": "All",

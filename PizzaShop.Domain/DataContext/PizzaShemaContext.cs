@@ -947,10 +947,7 @@ public partial class PizzaShemaContext : DbContext
                 .HasMaxLength(255)
                 .HasColumnName("name");
             entity.Property(e => e.SectionId).HasColumnName("section_id");
-            entity.Property(e => e.Status)
-                .HasMaxLength(50)
-                .HasDefaultValueSql("'Available'::character varying")
-                .HasColumnName("status");
+            entity.Property(e => e.Status).HasColumnName("status");
             entity.Property(e => e.UpdatedAt)
                 .HasColumnType("timestamp without time zone")
                 .HasColumnName("updated_at");
@@ -1034,7 +1031,7 @@ public partial class PizzaShemaContext : DbContext
                 .HasColumnName("flat_amount");
             entity.Property(e => e.IsActive).HasColumnName("is_active");
             entity.Property(e => e.IsDefault).HasColumnName("is_default");
-            entity.Property(e => e.IsDefult).HasColumnName("is_defult");
+            entity.Property(e => e.IsDeleted).HasColumnName("is_deleted");
             entity.Property(e => e.ModifiedBy).HasColumnName("modified_by");
             entity.Property(e => e.Name)
                 .HasMaxLength(255)

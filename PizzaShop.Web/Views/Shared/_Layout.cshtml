@@ -200,6 +200,7 @@
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="/css/style.css">
   <link rel="stylesheet" href="~/css/site.css">
+  <link rel="stylesheet" href="~/css/_pizzaCommon.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.3/jquery.validate.min.js"></script>
@@ -220,7 +221,7 @@
       <!-- Profile Dropdown -->
       <div class="btn-group">
         <img class=" dropdown-toggle" data-bs-toggle="dropdown" aria-expanded="false" width="35"
-         src="@ViewBag.UserImage " alt="">
+          src="@ViewBag.UserImage " alt="">
         <ul class="dropdown-menu dropdown-menu-end ">
           <li><a class="dropdown-item d-flex align-items-center" href="#">
               <img class="me-2" width="25" src="@ViewBag.UserImage" alt="">
@@ -245,7 +246,7 @@
             </a></li>
         </ul>
       </div>
-    
+
     </div>
   </nav>
 
@@ -303,7 +304,7 @@
               <div class="sidebar-name ms-2"><strong>Menu</strong></div>
             </div>
           </a></li>
-        <li class="nav-item mb-2 sidebarlist-hover"><a class="nav-link" href="#">
+        <li class="nav-item mb-2 sidebarlist-hover"><a href="/TableAndSection/TableAndSection" class="nav-link">
             <div class="d-flex">
               <div>
                 <img class="dashboard-icon" src="~/images/icons/square.svg" alt="">
@@ -312,7 +313,7 @@
               <div class="sidebar-name ms-2"><strong>Table And Section</strong></div>
             </div>
           </a></li>
-        <li class="nav-item mb-2 sidebarlist-hover"><a class="nav-link" href="#">
+        <li class="nav-item mb-2 sidebarlist-hover"><a class="nav-link" href="/TaxAndFee/TaxAndFeeView">
             <div class="d-flex">
               <div>
                 <img class="dashboard-icon" src="~/images/icons/cash-coin.svg" alt="">
@@ -340,12 +341,12 @@
           </a></li>
       </ul>
     </div>
-  
+
   </div>
 
   <!-- Main Content -->
   <div class="container mt-4" id="main-content">
- <partial name="_Toaster.cshtml" ></partial>
+    <partial name="_Toaster.cshtml"></partial>
     @RenderBody()
 
 
@@ -364,9 +365,9 @@
         </div>
         <div class="modal-body">
           <div class="d-flex justify-content-center"><img class="warning-img"
-                                        src="~/images/toppng.com-warning-icon-2400x2400.png" height="40" width="40" alt=""></div>
-                                        <div class="d-flex justify-content-center">
-          Are you sure you want to logout?
+              src="~/images/toppng.com-warning-icon-2400x2400.png" height="40" width="40" alt=""></div>
+          <div class="d-flex justify-content-center">
+            Are you sure you want to logout?
           </div>
         </div>
         <div class="modal-footer">

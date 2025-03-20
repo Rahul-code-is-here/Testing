@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "VdueGxUyk7+htzfzilqYzSsyHAMVv0mHiQioSiTZji4=",
+  "Hash": "Bc0+LkT+phRMrhnB+Py562dKkCpRGhbbIM2XgrGBVys=",
   "Source": "PizzaShop.Domain",
   "BasePath": "_content/PizzaShop.Domain",
   "Mode": "Default",
@@ -9,10 +9,10 @@
   "DiscoveryPatterns": [],
   "Assets": [
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Domain.styles.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Domain.styles.css",
       "SourceId": "PizzaShop.Domain",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PizzaShop.Domain",
       "RelativePath": "PizzaShop.Domain.styles.css",
       "AssetKind": "All",
@@ -23,13 +23,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Domain.styles.css"
+      "OriginalItemSpec": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\bundle\\PizzaShop.Domain.styles.css"
     },
     {
-      "Identity": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css",
+      "Identity": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css",
       "SourceId": "PizzaShop.Domain",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PizzaShop.Domain",
       "RelativePath": "PizzaShop.Domain.bundle.scp.css",
       "AssetKind": "All",
@@ -40,7 +40,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\PizzaShop.Domain.bundle.scp.css"
     }
   ]
 }

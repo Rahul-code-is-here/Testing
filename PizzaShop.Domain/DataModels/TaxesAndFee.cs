@@ -17,7 +17,7 @@ public partial class TaxesAndFee
 
     public bool? IsActive { get; set; }
 
-    public bool? IsDefult { get; set; }
+    public bool? IsDeleted { get; set; }
 
     public decimal TaxValue { get; set; }
 

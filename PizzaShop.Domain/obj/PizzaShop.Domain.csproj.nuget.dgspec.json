@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {}
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
         "projectName": "PizzaShop.Domain",
-        "projectPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+        "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",

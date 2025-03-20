@@ -5381,8 +5381,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
-              "projectPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
+            "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+              "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
             }
           }
         }

@@ -150,6 +150,7 @@
 
 // app.Run();
 
+using BussinessLogicLayer.Repository;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
@@ -187,10 +188,13 @@ builder.Services.AddScoped<IRoleRepository, RoleRepository>();
 builder.Services.AddScoped<IRoleService, RoleService>();
 // builder.Services.AddScoped<IPermissionRepository, PermissionRepository>();
 // builder.Services.AddScoped<IPermissionService, PermissionService>();
-builder.Services.AddScoped<IRolePermissionService,RolePermissionService>();
-builder.Services.AddScoped<IRolePermissionRepository,RolePermissionRepository>();
+builder.Services.AddScoped<IRolePermissionService, RolePermissionService>();
+builder.Services.AddScoped<IRolePermissionRepository, RolePermissionRepository>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
 builder.Services.AddScoped<ICategoryService, CategoryService>();
+builder.Services.AddScoped<ITableAndSectionRepository, TableAndSectionRepository>();
+builder.Services.AddScoped<ITableAndSectionService, TableAndSectionService>();
+builder.Services.AddScoped<ITaxAndFeeRepository, TaxAndFeeRepository>();
 // builder.Services.AddScoped<IRolePermissionRepository, RolePermissionRepository>();
 
 // Configure JWT authentication

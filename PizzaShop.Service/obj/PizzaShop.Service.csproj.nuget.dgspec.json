@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj": {}
+    "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj": {}
   },
   "projects": {
-    "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+    "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
         "projectName": "PizzaShop.Domain",
-        "projectPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
+        "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\",
+        "outputPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -114,8 +114,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
-                "projectPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
+              "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
               }
             }
           }
@@ -155,14 +155,14 @@
         }
       }
     },
-    "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj": {
+    "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj",
+        "projectUniqueName": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj",
         "projectName": "PizzaShop.Service",
-        "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj",
+        "projectPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\PizzaShop.Service.csproj",
         "packagesPath": "C:\\Users\\rahul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\obj\\",
+        "outputPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rahul\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -180,8 +180,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
-                "projectPath": "c:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
+              "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj": {
+                "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Domain\\PizzaShop.Domain.csproj"
               },
               "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Repository\\PizzaShop.Repository.csproj": {
                 "projectPath": "C:\\Users\\rahul\\OneDrive\\Desktop\\ThreeTier-master\\PizzaShop.Repository\\PizzaShop.Repository.csproj"

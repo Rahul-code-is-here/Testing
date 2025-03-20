@@ -144,8 +144,8 @@ C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\appsettings.json
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.staticwebassets.runtime.json
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.exe
-c:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.deps.json
-c:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.runtimeconfig.json
+C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.deps.json
+C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.runtimeconfig.json
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.dll
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\PizzaShop.Web.pdb
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\bin\Debug\net7.0\AutoMoq.dll
@@ -202,9 +202,9 @@ C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\scopedcss\bundle\PizzaShop.Web.styles.css
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\scopedcss\projectbundle\PizzaShop.Web.bundle.scp.css
-c:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\PizzaShop.Web.csproj.CopyComplete
+C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\PizzaShop.Web.csproj.CopyComplete
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\PizzaShop.Web.dll
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\refint\PizzaShop.Web.dll
 C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\PizzaShop.Web.pdb
-c:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\PizzaShop.Web.genruntimeconfig.cache
-c:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\ref\PizzaShop.Web.dll
+C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\PizzaShop.Web.genruntimeconfig.cache
+C:\Users\rahul\OneDrive\Desktop\ThreeTier-master\PizzaShop.Web\obj\Debug\net7.0\ref\PizzaShop.Web.dll

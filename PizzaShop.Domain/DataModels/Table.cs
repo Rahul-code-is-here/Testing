@@ -13,8 +13,6 @@ public partial class Table
 
     public int Capacity { get; set; }
 
-    public string Status { get; set; } = null!;
-
     public DateTime? CreatedAt { get; set; }
 
     public DateTime? UpdatedAt { get; set; }
@@ -24,6 +22,8 @@ public partial class Table
     public int? CreatedBy { get; set; }
 
     public int? ModifiedBy { get; set; }
+
+    public bool? Status { get; set; }
 
     public virtual User? CreatedByNavigation { get; set; }
 
